@@ -1,15 +1,18 @@
 #background{
-    background-color:#33243a
+    background-color:#1c0469
 }
 
 form{
 margin : auto;
 width : 500px;
-background : #aa00ff;
+background : #370486;
 padding:10px;
 }
 
-
 b{
-    color: #aa00ff;
+    color: #984ed6;
+}
+
+h2{
+    color: #000000;
 }
