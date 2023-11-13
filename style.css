@@ -1,12 +1,13 @@
 #background{
-    background-color:#1c0469
+    background-color:#310589
 }
 
 form{
-margin : auto;
-width : 500px;
-background : #0d0231;
-padding:10px;
+    margin : auto;
+    width : 500px;
+    background : #0d0231;
+    padding:10px;
+    border-radius: 25px;
 }
 
 b{
