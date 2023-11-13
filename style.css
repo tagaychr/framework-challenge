@@ -5,7 +5,7 @@
 form{
 margin : auto;
 width : 500px;
-background : #370486;
+background : #0d0231;
 padding:10px;
 }
 
@@ -13,6 +13,6 @@ b{
     color: #984ed6;
 }
 
-h2{
+#title{
     color: #000000;
 }
